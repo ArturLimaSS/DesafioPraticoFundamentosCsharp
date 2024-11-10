@@ -1,0 +1,15 @@
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/bin/Debug/net6.0/DesafioPratico
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/bin/Debug/net6.0/DesafioPratico.deps.json
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/bin/Debug/net6.0/DesafioPratico.runtimeconfig.json
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/bin/Debug/net6.0/DesafioPratico.dll
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/bin/Debug/net6.0/DesafioPratico.pdb
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/obj/Debug/net6.0/DesafioPratico.csproj.AssemblyReference.cache
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/obj/Debug/net6.0/DesafioPratico.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/obj/Debug/net6.0/DesafioPratico.AssemblyInfoInputs.cache
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/obj/Debug/net6.0/DesafioPratico.AssemblyInfo.cs
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/obj/Debug/net6.0/DesafioPratico.csproj.CoreCompileInputs.cache
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/obj/Debug/net6.0/DesafioPratico.dll
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/obj/Debug/net6.0/refint/DesafioPratico.dll
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/obj/Debug/net6.0/DesafioPratico.pdb
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/obj/Debug/net6.0/DesafioPratico.genruntimeconfig.cache
+/home/artur/Documents/Estudos/RocketSeat/csharp/desafio/DesafioPratico/obj/Debug/net6.0/ref/DesafioPratico.dll
